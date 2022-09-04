@@ -201,7 +201,7 @@ const index: React.FC<indexProps> = ({}) => {
               alignItems: "center",
             }}
           >
-            <img src="img/avatar.png" alt="avatar" className="header__avatar" />
+            <img src="img/mr.m.png" alt="avatar" className="header__avatar" />
             <div className="header__hero">
               <div
                 className="header__hero--heading"
